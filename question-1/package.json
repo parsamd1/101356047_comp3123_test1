@@ -1,0 +1,12 @@
+{
+  "name": "question-1",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": {
+    "name": "Parsa Majdol Hosseini"
+  }
+}
